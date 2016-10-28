@@ -1,0 +1,6 @@
+{
+  "name": "Sleeti",
+  "tagline": "A port of eeti.me, a pomf clone, to Slim 3 (basically Slim-Pomf)",
+  "body": "# sleeti\r\nA proof-of-concept port of eeti.me to Slim 3\r\n\r\n## To-do list\r\nAll upcoming and completed features, bugfixes, etc are listed [on the Trello board](https://trello.com/b/e5rzo48n/sleeti). Suggestions should be submitted through Github issues.\r\n\r\n## Installation\r\n### Prerequisites\r\n- nginx/Apache 2\r\n- PHP 7\r\n- MySQL server\r\n- [Composer](https://getcomposer.org/)\r\n\r\n### Setup\r\n- `git clone`\r\n- `cd`\r\n- `composer install`\r\n- Create database and source `sleeti.sql` from `mysql` console\r\n- Install webserver configs\r\n- Restart nginx/Apache\r\n- Visit website (`/install`)\r\n- Fill out fields\r\n- Enjoy!\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
